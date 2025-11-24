@@ -35,5 +35,5 @@ Aplicar de forma prática todos os conhecimentos adquiridos na disciplina, desen
 O portfólio está disponível online através do GitHub Pages.  
 Clique no link abaixo para visualizar:
 
-[Ver Portfólio Online]((https://annaellycavitoria.github.io/PortifolioAnnaEllyca/))
+[Ver Portfólio Online](https://annaellycavitoria.github.io/PortifolioAnnaEllyca/)
 
